@@ -4,7 +4,7 @@
 
 ### Install
 ```
-pip install -r requrements.txt
+pip install -r requirements.txt
 ```
 
 ### load_yaml.py
