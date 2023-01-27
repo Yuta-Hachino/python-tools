@@ -9,7 +9,6 @@ print("searchWord:", searchWord)
 
 files = glob.glob(searchTargetPath + searchWord, recursive=True)
 
-git.refresh()
 repo = git.Repo(searchTargetPath)
 
 for name in files:
